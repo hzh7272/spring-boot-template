@@ -24,6 +24,18 @@
             <artifactId>mybatis-spring-boot-starter</artifactId>
             <version>${mybatis.spring.boot.starter.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.template</groupId>
+            <artifactId>boot-commons-core</artifactId>
+            <version>1.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.template</groupId>
+            <artifactId>boot-commons-constants</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
     <build>
