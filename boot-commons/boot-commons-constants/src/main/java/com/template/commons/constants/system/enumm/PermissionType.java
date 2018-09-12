@@ -1,4 +1,4 @@
-package com.template.service.system.constant;
+package com.template.commons.constants.system.enumm;
 
 /**
  * 系统权限类型枚举

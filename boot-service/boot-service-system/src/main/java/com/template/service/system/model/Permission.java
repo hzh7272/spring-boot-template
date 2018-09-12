@@ -3,7 +3,7 @@ package com.template.service.system.model;
 import com.template.commons.core.base.BasicModel;
 import com.template.commons.core.generator.annotation.Table;
 import com.template.commons.core.generator.annotation.TableColumn;
-import com.template.service.system.constant.PermissionType;
+import com.template.commons.constants.system.enumm.PermissionType;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
